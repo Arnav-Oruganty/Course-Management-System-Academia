@@ -1,0 +1,3 @@
+faculty1 Dr_Smith
+faculty2 Prof_Jones
+faculty3 Badrinath

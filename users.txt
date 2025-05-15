@@ -1,0 +1,8 @@
+admin1 adminpass admin
+student1 studentpass1 student
+student2 studentpass2 student
+faculty1 facultypass1 faculty
+faculty2 facultypass2 faculty
+student3 arnavrao123 student
+faculty3 badrinath123 faculty
+student3 arnavrao123 student

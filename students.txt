@@ -1,0 +1,3 @@
+student1 John_Doe inactive
+student2 Jane_Smith active
+student3 Arnav_Oruganty active

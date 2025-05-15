@@ -1,0 +1,3 @@
+CS101 Intro_to_CS faculty1 50 49
+CS102 Advanced_CS faculty1 20 0
+CS111 OS faculty3 50 50
